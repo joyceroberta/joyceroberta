@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando na ** Mimo Live Sales **
 
-- 🌱 Ando aprendendo mais sobre ** Data Science e Power Bi **
+- 🌱 Ando aprendendo mais sobre ** Angular e Nest.js **
 
 - 👨‍💻 Meus projetos estão disponíveis em [portfólio em construção] (portfólio em construção)
 
