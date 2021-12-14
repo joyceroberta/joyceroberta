@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando na ** Mimo Live Sales **
 
-- 🌱 Ando aprendendo mais sobre ** Angular e Nest.js **
+- 🌱 Ando aprendendo mais sobre ** PHP e Laravel **
 
 - 👨‍💻 Meus projetos estão disponíveis em [portfólio em construção] (portfólio em construção)
 
