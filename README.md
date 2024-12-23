@@ -1,13 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou Joyce Roberta</h1>
-<h3 align="center">Desenvolvedora Fullstack Junior</h3>
+<h3 align="center">Desenvolvedora Fullstack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyceroberta&label=Profile%20views&color=0e75b6&style=flat" alt="joyceroberta" /> </p>
 
 - 🔭 Atualmente estou trabalhando na ** Mimo Live Sales **
 
 - 🌱 Ando aprendendo mais sobre ** PHP e Laravel **
-
-- 👨‍💻 Meus projetos estão disponíveis em [portfólio em construção] (portfólio em construção)
 
 - ⚡ Quem sou ** Uma apaixonada por games desde que ganhei meu SNES, amante da literatura fantástica e fangirl de Tolkien, sou extrovertida e falante, gosto muito de bater um papo, um pouco perfecionista, sou uma rápida aprendiz quando encontro um bom material (ou uma boa explicação) pelo assunto. Gosto muito de usar e estar sempre em busca de conhecimento. **
 
